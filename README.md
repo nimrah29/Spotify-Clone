@@ -5,6 +5,7 @@ A simple and stylish Spotify music player clone built with HTML, CSS, and JavaSc
 Features
 
 -Play/Pause control with visual feedback and animations.
+
 -Individual play buttons for each song in the playlist.
 -Next and Previous song navigation.
 -Progress bar that tracks and controls song playback position.
