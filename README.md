@@ -2,7 +2,7 @@ Spotify Clone
 
 A simple and stylish Spotify music player clone built with HTML, CSS, and JavaScript. This project allows users to play songs, navigate through playlists, and toggle between light and dark themes with a modern UI inspired by Spotify.
 
-Features
+Features:
 
 -Play/Pause control with visual feedback and animations.
 
@@ -24,7 +24,8 @@ Features
 
 -Clean UI with custom fonts and icons (using Font Awesome).
 
-Usage
+
+Usage:
 
 -Click on the play icon next to a song to play it.
 
@@ -36,7 +37,8 @@ Usage
 
 -The currently playing song will be highlighted.
 
-Technologies Used
+
+Technologies Used:
 
 -HTML5
 
@@ -48,7 +50,8 @@ Technologies Used
 
 -Font Awesome Icons
 
-Future Improvements
+
+Future Improvements:
 
 -Add playlist management (create, delete, reorder).
 
